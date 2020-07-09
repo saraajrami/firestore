@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "125841968001",
+    "firebase_url": "https://firestore-9f49c.firebaseio.com",
+    "project_id": "firestore-9f49c",
+    "storage_bucket": "firestore-9f49c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125841968001:android:436c759fecf0d3fdadb680",
+        "android_client_info": {
+          "package_name": "com.s.ajrami.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125841968001-4nn53furqsoltpn921249qnph751qr3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1AgcEP0ZAq021kuzXuBGWWQgQQytgCq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125841968001-4nn53furqsoltpn921249qnph751qr3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
